@@ -35,12 +35,11 @@ Vertical alignment can be achieved by using the `.u-align--v` utility and follow
     vertical-align: middle;
 }
 
-
 // This new class makes a lot more sense:
 .u-align--vertical-bottom {
-    vertical-align: bottom; // utils should override every other class
+    vertical-align: bottom!important;
 }
 
 .u-align--vertical-top {
-    vertical-align: top; // utils should override every other class
+    vertical-align: top!important;
 }
