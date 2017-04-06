@@ -1,15 +1,9 @@
 {
   "name": "mep-utilities.align-vertical",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Align Vertical Tool",
   "main": "stylesheets/_utility-align-vertical.scss",
-  "eyeglass": {
-    "needs": "^1.0.0",
-    "name": "utility-align-vertical",
-    "exports": "eyeglass-exports.js"
-  },
   "keywords": [
-    "eyeglass-module",
     "sass",
     "mise-en-place"
   ],
